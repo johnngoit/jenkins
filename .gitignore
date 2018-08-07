@@ -5,3 +5,4 @@ TestHelloWorld/obj/
 TestMvcModule/bin/
 TestMvcModule/obj/
 TestMvcModule/install/
+TestMvcModule/.vs/*
