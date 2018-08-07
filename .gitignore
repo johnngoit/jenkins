@@ -1,0 +1,7 @@
+packages/
+TestHelloWorld/bin/
+TestHelloWorld/obj/
+
+TestMvcModule/bin/
+TestMvcModule/obj/
+TestMvcModule/install/
