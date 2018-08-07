@@ -1,8 +1,8 @@
 packages/
-TestHelloWorld/bin/
-TestHelloWorld/obj/
+TestHelloWorld/bin/**/*
+TestHelloWorld/obj/**/*
 
-TestMvcModule/bin/
-TestMvcModule/obj/
-TestMvcModule/install/
-TestMvcModule/.vs/*
+TestMvcModule/bin/**/*
+TestMvcModule/obj/**/*
+TestMvcModule/install/**/*
+TestMvcModule/.vs/**/
